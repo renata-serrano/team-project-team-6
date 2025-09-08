@@ -5,14 +5,18 @@
 > Feel free to delete this text.
 
 
-# Title of your Project
-*Describe the purpose of this project* 
+# The Influence of Genre on Movie Rating
+*This research proposal intends to investigate the relationship between a movie's genre and its average rating, using a multiple linear regression analysis as a statistical method and aiming to present the results through a PDF report.* 
 
 ## Motivation
 
-*Provide background/motivation for your project*
+This research is significant for filmmakers, and production studios, as a deeper understanding of this relationship can inform them on what audiences prefer, and what genres they should focus on if they want to attract more audiences.The research is designed to be academical, but also practically applicable, with an emphasis on making the results accessible to anyone that might be interested in the research topic.
 
-**Mention your research question**
+The key research question that we will explore is: 
+
+**"To what extent do individual film genres and their specific combinations impact a movie's average audience rating?**
+
+The statistical method that will be applied is the multiple linear regression analysis. This statistical method is suited for this research question as it allows for the examination of the relationship between the dependent variable (average rating), and multiple independent variables (the various genres). Using this statistical method will allow to determine the individual impact of each genre on films's rating, while also testing the influence of other genres in the same film. Additionally, the analysis can reveal potential interaction effects between genres.......
 
 ## Data
 
